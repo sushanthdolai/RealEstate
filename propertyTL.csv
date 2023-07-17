@@ -1,0 +1,201 @@
+,PropertyID,PropertyName,Address,Location,TotalSquareFootage,TotalUnits,Attractions,Amenities,Category
+0,3567b253-c451-44fd-a586-8ff137dfdc96,Chandran LLC,"H.No. 720, Yadav Zila, Churachandpur, Manipur",Manipur,2514.93,1,Corporate Areas,WiFi,residential
+1,ba24e62f-4053-40c7-81b0-c8cc68d762ef,Bose-Loke,"92/06, Date Path, Ziro, Arunachal Pradesh",Arunachal Pradesh,1132.81,1,Malls,Pool,commercial
+2,65209fc8-ba45-4dad-a707-90a3450515b9,Kari PLC,"23, Srivastava Path, Bathinda, Punjab",Punjab,4114.17,1,Schools,Parking,commercial
+3,2f278e65-84e6-4983-bdc5-348deb0cd320,Contractor-Bandi,"H.No. 26, Samra Street, Brahmapur, Odisha",Odisha,2273.53,1,Airport,Outdoor Space,residential
+4,a11d9d1a-96ac-4332-9bbb-69b50b3d1052,"Dhawan, Maharaj and Seshadri","57, Date Circle, Karimnagar, Telangana",Telangana,1290.39,1,Airport,WiFi,residential
+5,feed396f-e79e-4839-aadf-3772c915424d,Deo-Kant,"H.No. 12, Sunder Street, Madurai, Tamil Nadu",Tamil Nadu,3804.66,1,Schools,Parking,residential
+6,61851e76-1ee5-429b-8b15-28cfe59d2f9c,"Doshi, Walla and Bansal","76/898, Suri, Bhavnagar, Gujarat",Gujarat,3776.16,1,Tourist Places,Pool,residential
+7,bc82f42b-56b0-4260-8a8c-3947aa62e6b4,Khare Inc,"90/64, Bhalla Ganj, Mysore, Karnataka",Karnataka,3435.35,1,Railway Station,Gym,commercial
+8,85c83c93-9502-4b92-af0e-e31f9fcd14dc,Aurora-Malhotra,"70/70, Gade Street, Jodhpur, Rajasthan",Rajasthan,4044.63,1,Airport,Pool,residential
+9,5d68c8bd-c640-4379-96e2-a0f07ffe2c3b,Soni PLC,"24/48, Saini Nagar, Ziro, Arunachal Pradesh",Arunachal Pradesh,4237.21,1,Malls,Outdoor Space,residential
+10,3018e52b-037a-4b34-83e0-a28bada8314b,Johal PLC,"780, Krishnamurthy Marg, Ujjain, Madhya Pradesh",Madhya Pradesh,2646.84,1,Railway Station,Pool,commercial
+11,47c287ef-a6c4-4369-b356-224e4379b603,"Dutt, Deshpande and Dutt","30, Ram Zila, Arrah, Bihar",Bihar,1195.12,1,Malls,Pet-friendly,commercial
+12,bfa93913-e9f3-4bcd-941b-46629518d034,Kalita-Apte,"36, Magar Road, Rajkot, Gujarat",Gujarat,1666.01,1,Schools,WiFi,residential
+13,3347e0ab-8166-454f-9fb1-375ac9c2624e,Banerjee Group,"75/71, Dua Nagar, Shimla, Himachal Pradesh",Himachal Pradesh,2315.0,1,Corporate Areas,WiFi,commercial
+14,712d14d2-9e95-45c5-8a3a-62d150865b51,Barad Group,"38/42, Tara Zila, Itanagar, Arunachal Pradesh",Arunachal Pradesh,2236.86,1,Malls,Pet-friendly,residential
+15,eae3d896-698e-4185-81bb-a54f03754eb7,Salvi and Sons,"88/54, Varughese Chowk, Davanagere, Karnataka",Karnataka,1245.18,1,Bars,Laundry,residential
+16,198db1a1-7706-415e-ac59-5e47873a6c34,"Bir, Rajan and Krishnamurthy","H.No. 09, Master Circle, Bhopal, Madhya Pradesh",Madhya Pradesh,1092.22,1,Malls,Laundry,residential
+17,56e67197-a9cc-419c-aae8-30351ee629e8,Chand-Viswanathan,"65/83, Golla Zila, Kakinada, Andhra Pradesh",Andhra Pradesh,1928.1,1,Tourist Places,Outdoor Space,residential
+18,875cb2ba-4ec1-40e9-996d-5a837a98f396,Joshi Ltd,"H.No. 141, Rajagopalan Road, Bilaspur, Chhattisgarh",Chhattisgarh,3715.98,1,Tourist Places,Pool,residential
+19,0eb327c3-00dd-49fb-9882-345213a14140,Ramakrishnan-Gopal,"626, Bhatia Circle, Solan, Himachal Pradesh",Himachal Pradesh,2681.81,1,Corporate Areas,Outdoor Space,residential
+20,81a4f724-ed7a-435a-9043-d4c41410a009,Koshy Group,"38, Chhabra Ganj, Nongstoin, Meghalaya",Meghalaya,2914.87,1,Railway Station,Outdoor Space,residential
+21,973b4528-555f-4e0d-8e35-9af95e5cc931,Bal LLC,"54/719, Dhawan Zila, Erode, Tamil Nadu",Tamil Nadu,1097.38,1,Schools,Laundry,commercial
+22,6e6665e7-f01a-4158-a4e4-549e1b1464f9,Agarwal Inc,"07/61, Hari Chowk, Ambala, Haryana",Haryana,4332.74,1,Airport,Laundry,residential
+23,fa01b8ed-c846-4048-aff1-641def846649,"Bala, Lad and Gera","613, Devi Road, Mokokchung, Nagaland",Nagaland,2832.94,1,Tourist Places,Pet-friendly,commercial
+24,309625d5-7dd0-4a5e-a029-c6325eab311e,"Malhotra, Swaminathan and Bhasin","H.No. 738, Raja, Howrah, West Bengal",West Bengal,3919.68,1,Airport,Pet-friendly,residential
+25,cb96a788-1dbf-4aba-9025-c79790423837,Grover-Dhillon,"H.No. 92, Sama Path, Jamshedpur, Jharkhand",Jharkhand,2196.14,1,Bars,WiFi,residential
+26,a5945f8e-c4bb-433b-bc74-84602da19338,Raj-Karpe,"28/915, Savant, Hazaribagh, Jharkhand",Jharkhand,2892.16,1,Tourist Places,Gym,residential
+27,70792446-e2bf-4201-abc8-6a8d9ae202e7,Bhatnagar-Loke,"250, Kothari Zila, Kashipur, Uttarakhand",Uttarakhand,4695.31,1,Bars,Outdoor Space,residential
+28,d5089f87-3dbf-43ef-97cc-bd0e91bb3d6d,Chaudry PLC,"905, Choudhry Circle, Shillong, Meghalaya",Meghalaya,4671.05,1,Tourist Places,Gym,commercial
+29,1d6d66b8-2f02-4829-a3a7-ae171f9b8afd,"Cherian, Kothari and Gour","54/31, Shetty Street, Agra, Uttar Pradesh",Uttar Pradesh,4019.86,1,Corporate Areas,Parking,residential
+30,f05c7eac-4c98-41ad-a40f-9ee2e9b45814,Chahal-Srinivasan,"44/570, Karnik Ganj, Serchhip, Mizoram",Mizoram,2921.65,1,Malls,WiFi,commercial
+31,3d3496d8-1fba-4418-be33-452cb8455f9b,"Raja, Divan and Bobal","H.No. 993, Bhasin Chowk, Bhagalpur, Bihar",Bihar,1078.41,1,Schools,Laundry,residential
+32,c011e5da-d5ff-404e-a061-3ad31329f7f6,"Bahl, Bhagat and Chandra","98/18, Gera, Tura, Meghalaya",Meghalaya,4786.62,1,Corporate Areas,Outdoor Space,residential
+33,6c39ec2c-6795-4164-b0ed-ed95b99fa83b,Gupta-Chanda,"06/398, Sani, Singtam, Sikkim",Sikkim,2476.14,1,Railway Station,Pool,residential
+34,f989cf61-f172-4236-a94d-e548e4a32eff,"Som, Thaman and Kalita","242, Master Marg, Bhagalpur, Bihar",Bihar,3656.8,1,Tourist Places,WiFi,residential
+35,c53227ba-8159-4343-8d89-66ac7cff50b6,Sachdeva-Bhargava,"06/13, Sant, Bilaspur, Chhattisgarh",Chhattisgarh,1276.86,1,Malls,Outdoor Space,residential
+36,17e0da61-1c45-4f56-ab61-73472c01bb15,Tailor LLC,"H.No. 59, Sibal, Giridih, Jharkhand",Jharkhand,3411.19,1,Tourist Places,Pool,residential
+37,683fc2a7-625e-4c87-a5db-b9841a989fff,Sunder Inc,"19, Sanghvi Chowk, Dharmanagar, Tripura",Tripura,2277.17,1,Railway Station,Pet-friendly,residential
+38,9f874670-2138-4db3-9660-ff00653a6297,"Sahni, Varty and Bora","07/518, Rajan, Panipat, Haryana",Haryana,4934.63,1,Railway Station,WiFi,residential
+39,09857bbc-6e0f-4152-b97e-dd1f7c2b4d06,Kothari Inc,"58, Solanki Road, Mohali, Punjab",Punjab,3878.48,1,Malls,Outdoor Space,commercial
+40,6c65c373-eb3f-4a05-b8a6-86873c9df48f,Arya LLC,"76, Gokhale Circle, Udaipur, Tripura",Tripura,3910.06,1,Corporate Areas,Laundry,commercial
+41,bb9c4334-1c9a-4a2c-b94e-3ea8f766e83d,Comar-Iyer,"057, Banerjee Road, Itanagar, Arunachal Pradesh",Arunachal Pradesh,2074.5,1,Tourist Places,Laundry,residential
+42,5083ee3c-3190-4a97-83aa-dab9a0a9ce03,"Edwin, Jani and Shere","18/275, Joshi Road, Siliguri, West Bengal",West Bengal,3962.54,1,Airport,Pet-friendly,residential
+43,84f9a8d7-575a-4a7a-a690-0c3dd9ea46c0,Bahl LLC,"H.No. 57, Bhandari Circle, Kakching, Manipur",Manipur,4511.53,1,Tourist Places,Gym,commercial
+44,14a35368-380a-4ba5-b3b8-cbf742400dcd,Basu LLC,"39/585, Lall Marg, Kozhikode, Kerala",Kerala,2220.67,1,Corporate Areas,Parking,residential
+45,cf1f239c-9d0a-4d58-996f-1e1a6ead9b5b,Bali LLC,"62, Ramaswamy Zila, Udaipur, Rajasthan",Rajasthan,2082.14,1,Railway Station,Pool,residential
+46,fa8b672e-02c5-4672-b7e9-66e8c61de355,"Swamy, Chand and Chaudhry","H.No. 959, Roy Marg, Faridabad, Haryana",Haryana,4577.02,1,Tourist Places,Pet-friendly,residential
+47,d014f6fa-a96d-4cec-92be-4898ec190e43,Agrawal Inc,"H.No. 08, Bahl Zila, Saitual, Mizoram",Mizoram,3971.53,1,Malls,WiFi,residential
+48,b667bad8-8495-4528-aadf-90998172d73b,"Gaba, Yadav and Sachdeva","H.No. 76, Talwar Marg, Mumbai, Maharashtra",Maharashtra,3184.44,1,Airport,Pet-friendly,residential
+49,59348d6d-0045-400c-9e97-70e69bdf4d4e,Mann Ltd,"15/908, Aggarwal Zila, Lawngtlai, Mizoram",Mizoram,2762.03,1,Malls,Outdoor Space,commercial
+50,d308b5ea-b7c0-4c8d-b94b-45374f07109b,Chander Group,"56, Gade Circle, Tawang, Arunachal Pradesh",Arunachal Pradesh,1973.38,1,Corporate Areas,Pool,residential
+51,99d315dc-747a-413a-b770-f633cc40479f,Sethi Group,"25, Mander Street, Solan, Himachal Pradesh",Himachal Pradesh,3044.52,1,Corporate Areas,Parking,residential
+52,cd94aca3-1720-4c80-b629-1e21504a0f98,Biswas-Divan,"87, Rege Chowk, Bardhaman, West Bengal",West Bengal,4575.22,1,Railway Station,WiFi,commercial
+53,c9ff0f1d-5aa3-4a96-a530-a5ff722708a3,Kaur-Dalal,"45, Tank Marg, Brahmapur, Odisha",Odisha,1781.58,1,Malls,Outdoor Space,commercial
+54,078fb60e-8d4f-4eaa-a393-26579e413f32,"Walia, Kala and Rattan","42/52, Badami Street, Tiruppur, Tamil Nadu",Tamil Nadu,3548.39,1,Airport,Pool,residential
+55,f2128114-18ce-4b3b-9cb5-2977fb9924b4,"Raman, Mangat and Mane","978, Varma Street, Haridwar, Uttarakhand",Uttarakhand,2113.33,1,Airport,Pool,residential
+56,e09e47cd-e02e-43f1-b048-2bc4133c034e,Madan Group,"H.No. 082, Balakrishnan Marg, Navi Mumbai, Maharashtra",Maharashtra,2597.34,1,Tourist Places,Pet-friendly,residential
+57,8dc8cd38-97e8-4e7b-820a-e76ad77a096c,"Khatri, Swamy and Golla","12/98, Golla Marg, Gurgaon, Haryana",Haryana,3244.93,1,Malls,Pool,residential
+58,5dd6972f-456b-4842-a3fe-95f437ef0751,Bora PLC,"37/76, Khalsa Nagar, Visakhapatnam, Andhra Pradesh",Andhra Pradesh,2357.82,1,Corporate Areas,Gym,residential
+59,870c7bf7-0d3f-4df3-a875-d8d130ea583d,Bhattacharyya-Sant,"127, Mandal Road, Junagadh, Gujarat",Gujarat,3167.43,1,Corporate Areas,Pool,residential
+60,30689cf7-542c-4893-822e-96373514e2e7,"Borde, Ravi and Sathe","14/65, Gopal Chowk, Chandigarh, Punjab",Punjab,3288.87,1,Malls,Parking,residential
+61,0dce43f2-082a-4390-887c-9715de45db41,"Sagar, Balasubramanian and Sawhney","H.No. 04, Salvi Ganj, Haldwani, Uttarakhand",Uttarakhand,4886.29,1,Schools,Laundry,residential
+62,7f59611a-6e05-47a0-962b-798221ccee24,"Dasgupta, Kari and Kapoor","H.No. 654, Wason Road, Raipur, Chhattisgarh",Chhattisgarh,1329.01,1,Malls,WiFi,residential
+63,c4b62f31-03e4-4785-9e89-73bec416cc66,Sibal-Borde,"71/38, Thaker Chowk, Pasighat, Arunachal Pradesh",Arunachal Pradesh,1786.95,1,Tourist Places,Pet-friendly,residential
+64,c051a2c9-1a34-4597-a387-08f99a4cd921,"Chadha, Varma and Shroff","H.No. 858, Sha Circle, Bomdila, Arunachal Pradesh",Arunachal Pradesh,4850.96,1,Bars,Outdoor Space,commercial
+65,7a6548c1-5adb-49bc-b07e-f2f7a529e36d,"Sarma, Jhaveri and Chopra","H.No. 500, Krishna Marg, Jabalpur, Madhya Pradesh",Madhya Pradesh,4167.83,1,Corporate Areas,Outdoor Space,residential
+66,3e06a1a4-a8fe-4fed-8adb-7b853fcea3fe,"Bandi, Ganesh and Agarwal","370, Dhawan Ganj, Mumbai, Maharashtra",Maharashtra,2360.24,1,Corporate Areas,Gym,residential
+67,62179877-ca8a-4538-a8bd-1cf799a99401,Bhattacharyya-Devan,"63/11, Barman Chowk, Kurnool, Andhra Pradesh",Andhra Pradesh,4764.42,1,Bars,Pool,residential
+68,69988859-8e29-49df-8674-11786f116cb6,"Kohli, Din and Sethi","97/46, Tiwari Road, Panipat, Haryana",Haryana,4903.02,1,Corporate Areas,Gym,residential
+69,1cabb3e6-c9bf-429e-b65b-3366fb531507,Dixit Group,"129, Sawhney Circle, Wokha, Nagaland",Nagaland,2410.95,1,Corporate Areas,Pet-friendly,residential
+70,74619808-c4ab-4936-8c23-c0452ea2f33b,Kata-Rama,"95, Deshpande Nagar, Baghmara, Meghalaya",Meghalaya,3169.49,1,Airport,Pool,residential
+71,d14b538b-6796-48ac-9b77-80d5322a7b53,Kala-Kapoor,"350, Reddy Zila, Rohtak, Haryana",Haryana,2237.15,1,Tourist Places,Laundry,residential
+72,b7797ea8-9842-4873-aa22-0c2515517adb,Sandhu-Thakkar,"25, Ray Path, Ranchi, Jharkhand",Jharkhand,1326.07,1,Malls,Laundry,residential
+73,05bf7cbe-812d-4ff1-b9ba-7e6c5aae41e4,"Khanna, Mangal and Issac","11/484, Bhalla Marg, Chennai, Tamil Nadu",Tamil Nadu,3832.39,1,Railway Station,Laundry,commercial
+74,b16bb212-2f13-4eab-b5e9-1464efc4227a,Arya Ltd,"46, Deep Ganj, Bishnupur, Manipur",Manipur,3192.19,1,Schools,Pet-friendly,residential
+75,6f96e684-ef48-401d-ac5f-18e674eebc41,"Kakar, Goda and Ranganathan","188, Guha Circle, Madurai, Tamil Nadu",Tamil Nadu,1211.01,1,Schools,Outdoor Space,residential
+76,f27e33dc-05a7-41b7-a3e4-9ebb54bc335e,Kapadia PLC,"654, Goswami Road, Udaipur, Tripura",Tripura,2706.95,1,Corporate Areas,Laundry,commercial
+77,18d75571-5043-4517-8a42-ea8eaba60e39,Sachar-Kar,"H.No. 24, Dalal Nagar, Panipat, Haryana",Haryana,3061.92,1,Tourist Places,Pet-friendly,residential
+78,fdddf67b-ca05-4ad5-86c9-ac24d478d378,Bal and Sons,"40, Bansal Street, Ajmer, Rajasthan",Rajasthan,4284.96,1,Tourist Places,WiFi,residential
+79,7f016d8f-5d0d-4220-b3c8-4f7ebb98ffde,Ravi-Sabharwal,"H.No. 131, Bala Path, Roorkee, Uttarakhand",Uttarakhand,2236.71,1,Tourist Places,Gym,commercial
+80,b643400c-23a8-4030-badb-7099e72e73bf,Dave-Chad,"H.No. 84, Rout, Roing, Arunachal Pradesh",Arunachal Pradesh,4542.05,1,Corporate Areas,Outdoor Space,residential
+81,e870467d-20d9-486b-9fd2-6d2ade7d7cc5,Keer Inc,"00, Dass Street, Ziro, Arunachal Pradesh",Arunachal Pradesh,4409.28,1,Bars,Pet-friendly,residential
+82,6c691bd6-c58f-4bcf-8ed6-bc56957b6c72,"Sachar, Tata and Karpe","H.No. 66, Bir Ganj, Rangpo, Sikkim",Sikkim,4842.04,1,Schools,Outdoor Space,residential
+83,5811639c-4b75-49d0-bdab-abb56ec86233,Borah-Tripathi,"H.No. 671, Anne, Mangan, Sikkim",Sikkim,4950.37,1,Malls,Outdoor Space,commercial
+84,47898d87-3a6f-43ee-a649-a49fac46f908,Sharma Group,"04/892, Devan Path, Chandigarh, Punjab",Punjab,3267.95,1,Schools,Outdoor Space,residential
+85,c7639476-9f42-4fbf-a8af-b9b23c1e0762,"Sama, Tiwari and Rama","64/404, Rana Ganj, Namchi, Sikkim",Sikkim,2071.66,1,Schools,Pool,residential
+86,a28819d8-d545-4d17-8452-79619a0a48aa,"Shere, Tak and Sibal","13/365, Char Path, Ludhiana, Punjab",Punjab,2152.45,1,Airport,Gym,residential
+87,4023d8e6-fbe7-4adb-9249-a42bf306141b,Yogi-Dixit,"H.No. 06, Ramakrishnan Street, Durg, Chhattisgarh",Chhattisgarh,1876.55,1,Railway Station,WiFi,residential
+88,4aadb738-a450-416b-b08f-a243f628e91d,"Grover, Ramachandran and Saraf","H.No. 933, Soman Path, Durgapur, West Bengal",West Bengal,3995.87,1,Corporate Areas,WiFi,residential
+89,54575f69-9c5a-45c7-9b67-9d2522cd9c01,"Bhatt, Dave and Sahni","92/352, Sandal Road, Durg, Chhattisgarh",Chhattisgarh,2786.83,1,Schools,Laundry,residential
+90,ecd0592f-1b0b-487f-ab32-47534a65f3e1,"Sundaram, Bhatt and Mahal","51/20, Salvi Road, Thrissur, Kerala",Kerala,2824.11,1,Airport,Pet-friendly,residential
+91,f3d1c1ce-a287-46c5-942f-2631c1ba16f9,"Gokhale, Walla and Trivedi","605, Chakraborty Circle, Dewas, Madhya Pradesh",Madhya Pradesh,4045.29,1,Tourist Places,Parking,residential
+92,0238a3ab-2b2d-42c2-865d-d79e9a49c3c8,"Gupta, Sahni and Dutt","14/157, Bhagat Road, Nagaon, Assam",Assam,2904.78,1,Corporate Areas,Outdoor Space,residential
+93,cef784ee-0d1c-4842-9fa3-28bf0fbb8f02,Dixit-Seshadri,"H.No. 09, Apte Nagar, Kashipur, Uttarakhand",Uttarakhand,4769.56,1,Corporate Areas,Pet-friendly,residential
+94,c9788960-2d5d-40d6-96c7-56733f97671f,Ghosh and Sons,"79/05, Buch Ganj, Shimla, Himachal Pradesh",Himachal Pradesh,1124.01,1,Tourist Places,Parking,residential
+95,bcbf3e03-822d-411b-a5ac-053a5cca6bb6,Din Ltd,"H.No. 38, Verma Zila, Serchhip, Mizoram",Mizoram,3582.67,1,Corporate Areas,Gym,residential
+96,ec1dcf4a-8bf3-4769-b96b-c58833c2b8ba,Sanghvi-Gill,"55, Karnik Nagar, Wokha, Nagaland",Nagaland,4235.59,1,Bars,WiFi,residential
+97,ba582738-03aa-4023-a745-6c88ee50f249,"Shroff, Bumb and Atwal","94, Keer Zila, Ramagundam, Telangana",Telangana,1771.12,1,Tourist Places,Pool,residential
+98,35acf701-7a47-4132-9fff-7a8c8ba2750c,Raja-Devan,"611, Batra Ganj, Jamnagar, Gujarat",Gujarat,4094.56,1,Railway Station,Gym,residential
+99,f170e6b1-5eaf-485f-a199-50048bedde49,Sastry LLC,"22, Bhattacharyya Road, Gulbarga, Karnataka",Karnataka,4309.16,1,Airport,Gym,commercial
+100,01d257fd-799e-4861-aa6b-fde932224541,Chand-Gopal,"00/48, Dutt Path, Kozhikode, Kerala",Kerala,3349.64,1,Bars,Laundry,residential
+101,0aeac702-f2fd-47c0-9448-425fa139941d,"Devan, Saini and Viswanathan","86, Amble, Durg, Chhattisgarh",Chhattisgarh,3788.44,1,Railway Station,Laundry,residential
+102,b9ba077a-d4de-4274-9a13-c63783e60e5a,"Batta, Dhar and Ramachandran","06/959, Wali Chowk, Cuttack, Odisha",Odisha,2241.51,1,Bars,Pet-friendly,residential
+103,d428801e-cb3d-44f6-ba17-a7fd76e6d7d9,Raval-Brahmbhatt,"22, Chad Road, Nongpoh, Meghalaya",Meghalaya,4264.5,1,Railway Station,Outdoor Space,residential
+104,11539601-fbb8-4e42-9932-624f959d8bca,Baral-Amble,"83, Wable Nagar, Mysore, Karnataka",Karnataka,4672.92,1,Tourist Places,Pet-friendly,residential
+105,5411fbf9-87d6-45f8-a3f2-d994b4aaca61,"Sarkar, Kant and Seth","01, Goda Path, Saitual, Mizoram",Mizoram,1591.19,1,Corporate Areas,Outdoor Space,commercial
+106,4910336d-6d65-4ff8-8369-da26b315d7f6,Bandi Group,"H.No. 307, Vig Street, Bhopal, Madhya Pradesh",Madhya Pradesh,4272.08,1,Bars,Laundry,residential
+107,f46c0aa9-748a-49a1-a8d4-643b6b7765fd,"Kant, Kaur and Kala","25/349, Ahuja Marg, Sikar, Rajasthan",Rajasthan,3725.12,1,Airport,Pet-friendly,commercial
+108,8354ea7e-0c11-42ce-a7b3-2af804b70432,Gupta-Bhakta,"52/57, Wason Street, Rohtak, Haryana",Haryana,4945.03,1,Tourist Places,Gym,residential
+109,8ee8e4c6-5a2d-47bd-b42e-5a8812c9e712,"Majumdar, Garg and Kaur","71/357, Rajagopalan Road, Karnal, Haryana",Haryana,3912.4,1,Corporate Areas,Outdoor Space,residential
+110,3e9a1938-b1f7-45d0-abd5-050c9ac86d8f,"Saini, Gala and Swamy","56, Balakrishnan Road, Chandigarh, Punjab",Punjab,4816.77,1,Malls,WiFi,residential
+111,34b9759f-d1b7-45e4-aa0d-f199b2b3d99f,"Virk, Atwal and Chaudhary","89/205, Saraf Marg, Naya Bazar, Sikkim",Sikkim,1038.27,1,Railway Station,Gym,residential
+112,d576ced2-7778-439c-9a84-f409a1a684ab,Dua-Bail,"H.No. 698, Guha Chowk, Jamshedpur, Jharkhand",Jharkhand,4267.05,1,Malls,Gym,residential
+113,a40c6ab1-227a-447c-8a69-b0d530cbfc5a,Apte Group,"97/231, Sane Circle, Lunglei, Mizoram",Mizoram,2556.12,1,Tourist Places,Laundry,commercial
+114,1504ea81-116a-471c-8516-662dbdfda397,Shankar Ltd,"47, Aurora Chowk, Kohima, Nagaland",Nagaland,3261.97,1,Corporate Areas,WiFi,residential
+115,20df3873-2590-439d-af3a-a8300936f288,"Sem, Varughese and Brar","86/757, Karnik Road, Balasore, Odisha",Odisha,1547.21,1,Corporate Areas,Gym,residential
+116,7621e003-6ca1-4177-93cc-5f8988f78174,Krish-Toor,"017, Kala Chowk, Ghaziabad, Uttar Pradesh",Uttar Pradesh,4825.95,1,Tourist Places,Laundry,residential
+117,805eb889-3da6-4969-96d6-86cd43a35b5e,"Sawhney, Chakrabarti and Rattan","H.No. 84, Sidhu Road, Karnal, Haryana",Haryana,1951.65,1,Corporate Areas,Parking,residential
+118,9db81ada-88c4-496e-a4b3-f117742ee0e1,"Walia, Khalsa and Bahl","H.No. 95, Luthra Chowk, Bhilai, Chhattisgarh",Chhattisgarh,1648.49,1,Bars,Outdoor Space,residential
+119,d9ecdbfc-8a16-43f4-b072-85f72a694273,"Choudhry, Kapur and Dhawan","H.No. 891, Ramakrishnan Zila, Siliguri, West Bengal",West Bengal,4613.62,1,Airport,Laundry,residential
+120,e963afb3-acdc-49ce-a269-94eeb467af51,Sarma-Uppal,"50/59, Varughese, Senapati, Manipur",Manipur,1137.07,1,Bars,Gym,residential
+121,2e6a4b05-790f-434f-84ab-073edb13f9eb,Das-Devan,"06, Jaggi Nagar, Shimla, Himachal Pradesh",Himachal Pradesh,4886.41,1,Airport,Pool,residential
+122,7c1150e8-e132-45aa-aeb6-125014cc37b0,Ray LLC,"H.No. 64, Vig Nagar, Indore, Madhya Pradesh",Madhya Pradesh,1268.92,1,Tourist Places,Parking,residential
+123,fa6520be-8c96-4fc1-ad64-3bea515ee977,Sen-Warrior,"42/577, Sankar Ganj, Dibrugarh, Assam",Assam,3587.48,1,Railway Station,Laundry,residential
+124,0d0c9783-7dc1-4001-a988-afb778901aa0,Tella-Ramanathan,"H.No. 626, Sanghvi Street, Hazaribagh, Jharkhand",Jharkhand,3657.67,1,Tourist Places,WiFi,residential
+125,69732e81-de08-4f3b-be57-00419857fc98,Sarin-Iyer,"92/973, Sahota Chowk, Jaipur, Rajasthan",Rajasthan,1523.35,1,Airport,Gym,residential
+126,51f346fe-e357-4a7e-be32-2b54997bc617,Chawla-Kar,"83/93, Lad, Ujjain, Madhya Pradesh",Madhya Pradesh,1721.28,1,Schools,Gym,residential
+127,ec14fc54-d5de-44cd-9d03-a13cab20a945,Sant-Srinivasan,"84, Rau Zila, Udaipur, Tripura",Tripura,1428.32,1,Corporate Areas,Laundry,residential
+128,77f2cc57-12e7-448e-bc97-72bcaa6dd312,"Mand, Kala and Vig","86, Bhargava Zila, Bikaner, Rajasthan",Rajasthan,1272.37,1,Airport,Parking,residential
+129,e063ccc6-949c-48b2-9c49-f0e33a531d43,Ben Inc,"01/782, Raman Marg, Deoghar, Jharkhand",Jharkhand,1350.65,1,Schools,Outdoor Space,residential
+130,33d06fe0-3848-4063-b406-a7c2fd4fa025,"Lata, Dua and Dass","H.No. 79, Shukla Zila, Hyderabad, Telangana",Telangana,3703.58,1,Malls,Pet-friendly,residential
+131,85dc1e71-3d4f-4306-a2b8-b6cd2cbfd0eb,Brahmbhatt Inc,"71, Malhotra Circle, Mapusa, Goa",Goa,2386.59,1,Schools,Laundry,residential
+132,ff85d1db-df6c-47ec-83ec-9ca5624f0123,Khanna-Kumer,"H.No. 32, Sampath Marg, Purnia, Bihar",Bihar,4097.82,1,Railway Station,Outdoor Space,commercial
+133,87dc59fc-6e20-4ea0-9e9d-f8be43aec2f2,"Ghosh, Lall and Khare","H.No. 418, Sule Road, Singtam, Sikkim",Sikkim,3898.47,1,Railway Station,Pool,commercial
+134,ed98496a-66c3-4c7d-9a9d-a27f233ddc34,"Rattan, Chaudhari and Chada","H.No. 405, Chhabra Road, Bilaspur, Chhattisgarh",Chhattisgarh,3666.33,1,Bars,Pool,residential
+135,1bcd2c35-f4e2-4cbc-b0c2-9e2f68dfc41d,"Dhillon, Bobal and Tiwari","04/766, Iyer Street, Salem, Tamil Nadu",Tamil Nadu,2124.18,1,Airport,Pet-friendly,commercial
+136,635e6053-4626-4853-b902-b76c2e75343a,Raval Group,"H.No. 184, Bhatt Circle, Gaya, Bihar",Bihar,2286.55,1,Schools,Pet-friendly,commercial
+137,3b110b71-fea4-4bb6-88e0-8c3ede9ebdf1,"Krishnamurthy, Batta and Garde","88, Thakkar Road, Nagpur, Maharashtra",Maharashtra,4434.77,1,Railway Station,Pool,commercial
+138,5cd3a17b-172f-4260-abd8-d4172a2a5674,"Bal, Bhattacharyya and Sampath","77/979, Kalla Road, Pune, Maharashtra",Maharashtra,2880.78,1,Corporate Areas,Pool,residential
+139,190eb875-bbbb-4e23-a805-8d0ab4a49024,Sem-Raju,"85/034, Sekhon Ganj, Hubli, Karnataka",Karnataka,3179.77,1,Railway Station,Pet-friendly,residential
+140,8fb71217-4305-4591-9686-684eec125a21,"Bahl, Khosla and Guha","900, Kuruvilla, Madurai, Tamil Nadu",Tamil Nadu,1043.6,1,Schools,Outdoor Space,commercial
+141,1bc79413-3d79-4c67-beef-1e028d4481fc,Goyal-Kaur,"05/91, Bahri Marg, Nongstoin, Meghalaya",Meghalaya,2336.56,1,Schools,WiFi,residential
+142,af577adc-dfc8-4de9-815a-a4ff4e0dfd8e,Hora-Mannan,"H.No. 53, Lad Circle, Indore, Madhya Pradesh",Madhya Pradesh,4325.65,1,Malls,Pool,residential
+143,38d04fea-72ea-42d9-b859-26143c55698f,Sharma Inc,"H.No. 61, Sarkar Path, Meerut, Uttar Pradesh",Uttar Pradesh,2041.65,1,Airport,Parking,residential
+144,92d5b68a-4ddc-4359-817b-ab76365f23a8,Rajan-Zachariah,"H.No. 046, Dass Circle, Curchorem, Goa",Goa,1988.57,1,Schools,Parking,residential
+145,00ca283a-d606-482b-9b47-16824428fd64,Yohannan-Chaudhry,"34, Karnik, Gyalshing, Sikkim",Sikkim,4356.84,1,Malls,Pool,residential
+146,01742f37-7f0b-4ef6-819d-8ea79d715ecd,Karpe-Bhakta,"544, Zacharia Zila, Deoghar, Jharkhand",Jharkhand,4051.7,1,Schools,Gym,residential
+147,f394446f-6adf-4611-b301-1c8fb1f5d5d6,"Bose, Shroff and Singhal","15/11, Basak, Rishikesh, Uttarakhand",Uttarakhand,3473.01,1,Tourist Places,Pool,residential
+148,9565205f-8209-4285-a3de-78af273d39fa,Gala and Sons,"491, Singh Nagar, Jabalpur, Madhya Pradesh",Madhya Pradesh,3348.09,1,Airport,Gym,residential
+149,e7acf8fd-d0cf-4de9-ad26-71d97185ab9d,Srinivas-Shukla,"32, Upadhyay Street, Singtam, Sikkim",Sikkim,4149.78,1,Railway Station,Pet-friendly,commercial
+150,33dcc789-2ccb-4f23-a1bb-f99e51e7f54d,Mahajan-Saraf,"H.No. 94, Iyer Street, Mokokchung, Nagaland",Nagaland,4830.34,1,Airport,Laundry,residential
+151,9ec5252e-f148-4731-af6a-a774be03bd72,Walia-Mani,"486, Arya Circle, Purnia, Bihar",Bihar,1883.23,1,Railway Station,Outdoor Space,residential
+152,72f72b77-58b3-4f16-b513-128fdefaba40,Dugar-Savant,"295, Chaudry Nagar, Zunheboto, Nagaland",Nagaland,1464.19,1,Railway Station,Outdoor Space,residential
+153,719e02bb-bc6d-4a61-bd37-4daa2a33d1d8,Chandra-Karnik,"14/808, Dhawan Nagar, Patiala, Punjab",Punjab,3523.84,1,Tourist Places,Outdoor Space,residential
+154,5f9772a9-0284-4d1e-99b2-3e67305b81ab,Sabharwal Group,"H.No. 44, Kala Street, Balasore, Odisha",Odisha,2509.86,1,Corporate Areas,WiFi,residential
+155,6edf9e10-8f11-4aa1-a057-65340280c1b3,Sahota LLC,"773, Cherian Road, Bardhaman, West Bengal",West Bengal,3456.63,1,Bars,Gym,residential
+156,bbf7c638-8aef-4325-82da-d2bdd4693d1d,Contractor-Yogi,"330, Halder Street, Gaya, Bihar",Bihar,4807.24,1,Bars,Pet-friendly,residential
+157,e5498ae2-817d-4a7c-b605-7df5f70d729c,Dutta-Majumdar,"00/786, Varty Ganj, Shimla, Himachal Pradesh",Himachal Pradesh,4015.55,1,Schools,WiFi,residential
+158,ce0cff52-1ae2-4df1-a67e-fedd040cc941,Kalla Group,"60, Dutt Road, Agartala, Tripura",Tripura,4787.24,1,Malls,Parking,residential
+159,44a29f61-b0cf-4a92-b8da-40d32d3bf803,Chakrabarti and Sons,"15, Garg Chowk, Agartala, Tripura",Tripura,1770.58,1,Corporate Areas,Gym,commercial
+160,a6eeb511-6381-4938-9fe3-c56afa712f20,Wali PLC,"68, Dave Circle, Lucknow, Uttar Pradesh",Uttar Pradesh,2059.79,1,Airport,Laundry,residential
+161,8ef1852a-e694-4ba4-a453-6f0c2ed87e1d,Karan and Sons,"27/58, Seshadri Street, Shillong, Meghalaya",Meghalaya,2410.52,1,Airport,Pool,residential
+162,58b1fafa-8894-44b5-8c93-894c254e85b7,Sami Ltd,"H.No. 21, Sur Chowk, Durg, Chhattisgarh",Chhattisgarh,2565.66,1,Airport,Pool,commercial
+163,bc3d992a-ea97-4327-803b-3c60529c2986,Soni-Sahota,"H.No. 643, Dua Zila, Ajmer, Rajasthan",Rajasthan,3375.68,1,Schools,Outdoor Space,commercial
+164,a987ac6f-9b2a-49d1-b6e2-81d675ccd1e6,Dayal-Sood,"285, Dash Road, Udaipur, Tripura",Tripura,4593.39,1,Airport,WiFi,residential
+165,258ee72b-3c2c-4b3c-813e-5afc6aebfc16,Rastogi-Issac,"70/80, Madan Nagar, Singtam, Sikkim",Sikkim,1684.53,1,Corporate Areas,Laundry,commercial
+166,dc0d8857-f65e-4bc3-82f7-6795b71d11e6,Bumb Inc,"39/18, Wali Chowk, Bathinda, Punjab",Punjab,3454.01,1,Malls,Laundry,residential
+167,7cf788e5-6584-4b17-8616-101c754314e7,Wason and Sons,"141, Kamdar Marg, Guntur, Andhra Pradesh",Andhra Pradesh,4404.67,1,Malls,Parking,residential
+168,961669b1-5e17-447d-8c70-bf055f3e90b3,"Karpe, Vyas and Bahl","74/15, Dasgupta Ganj, Gyalshing, Sikkim",Sikkim,1452.43,1,Schools,Gym,residential
+169,b660bff6-80a8-436c-9aec-b93ec03ad015,Kurian-Kade,"61/952, Yohannan Road, Faridabad, Haryana",Haryana,1027.1,1,Railway Station,Gym,residential
+170,64c02483-d63f-43be-bf6d-84bdb3c12ad5,Sarin-Zachariah,"H.No. 81, Magar Circle, Haridwar, Uttarakhand",Uttarakhand,4425.32,1,Bars,Pool,residential
+171,b54980f5-d988-4e18-93ec-c39b0e304341,Rajagopalan LLC,"25/36, Manne, Jabalpur, Madhya Pradesh",Madhya Pradesh,4359.83,1,Tourist Places,Laundry,residential
+172,c4ce5ec4-4ba6-4a92-99d5-1908faa6eb1b,Chadha and Sons,"945, Deo Circle, Rajkot, Gujarat",Gujarat,1336.09,1,Schools,Pool,residential
+173,1aedc06c-fab5-4595-81cd-3709380ce622,Goel Inc,"604, Garde Street, Surat, Gujarat",Gujarat,3112.98,1,Railway Station,Pet-friendly,commercial
+174,07b21e6a-ee26-42b1-bfa9-25a5a5985921,Raj PLC,"H.No. 42, Bhalla Marg, Ambassa, Tripura",Tripura,1509.74,1,Corporate Areas,Gym,residential
+175,98e12ba5-1e13-4678-98b2-c37ef42ccba4,Karpe Ltd,"62/267, Kant Marg, Curchorem, Goa",Goa,3617.46,1,Malls,Pool,residential
+176,ba6ba7d4-fca8-4662-8099-4a05bae40fb7,Bora-Kar,"76, Buch Street, Sambalpur, Odisha",Odisha,3184.57,1,Airport,Parking,residential
+177,1a7ffac0-b445-483b-b811-d011b1375dda,"Lall, Anand and Bakshi","44/235, Sangha Path, Nahan, Himachal Pradesh",Himachal Pradesh,3734.26,1,Schools,Pool,residential
+178,914a7d31-7699-4956-8b95-dc193d492447,"Lanka, Rama and Sampath","41/102, Sachdeva Circle, Puri, Odisha",Odisha,2797.75,1,Schools,Laundry,residential
+179,2b197524-5587-46c0-bdbe-cd4956c4a9b6,"Sunder, Sarin and Bora","51/26, Raju Chowk, Saiha, Mizoram",Mizoram,4262.21,1,Malls,Pet-friendly,residential
+180,8f37b94f-5a94-42f8-8ffd-b6278cc3039e,"Sabharwal, Venkataraman and Mandal","H.No. 635, Kuruvilla Street, Kozhikode, Kerala",Kerala,1010.58,1,Bars,Pet-friendly,residential
+181,05ced7d6-4b24-43e7-8ca1-a8a92ac5f039,"Brahmbhatt, Chanda and Datta","70, Raju, Ghaziabad, Uttar Pradesh",Uttar Pradesh,3474.89,1,Malls,Outdoor Space,residential
+182,10d24dcf-4f1d-46f5-ac26-36ed436f6b82,"Manne, Sarma and Uppal","13/296, Kumer, Hazaribagh, Jharkhand",Jharkhand,1389.84,1,Corporate Areas,Pet-friendly,residential
+183,2a878c64-60e4-43f0-94cb-2dc78932d98d,"Shroff, Guha and Wali","73/71, Solanki Path, Tawang, Arunachal Pradesh",Arunachal Pradesh,1270.23,1,Schools,Parking,residential
+184,113bd64e-f188-491b-a942-27633b6a0e8b,"Lad, Raju and Koshy","51/628, Balakrishnan Ganj, Palakkad, Kerala",Kerala,3853.36,1,Malls,Parking,residential
+185,062ad076-3ae1-4333-8f81-4222f8518826,"Kohli, Sekhon and Bajwa","37/042, Kumer Marg, Cuttack, Odisha",Odisha,3374.78,1,Railway Station,Pool,residential
+186,c4c2cf6f-4d3a-478f-9469-4fffe2877819,Chokshi-Sur,"60/98, Sandal Road, Kohima, Nagaland",Nagaland,1578.31,1,Malls,Pet-friendly,commercial
+187,4a78b442-6cfc-48a0-bb34-d0cfdd116ad8,"Chaudhari, Saha and Basu","H.No. 04, Madan Chowk, Mokokchung, Nagaland",Nagaland,3719.49,1,Schools,Parking,residential
+188,922b455f-ffa1-4963-b048-a27c31ed7531,Virk-Keer,"H.No. 480, Sachdeva Chowk, Amritsar, Punjab",Punjab,1592.69,1,Schools,Gym,residential
+189,446dd166-dc32-4268-89a3-411017292203,Tripathi-Dubey,"82/950, Bose Chowk, Khammam, Telangana",Telangana,2681.95,1,Bars,Outdoor Space,residential
+190,7382d594-cda3-4491-80e5-1fe1d7482551,"Hayer, Date and Chakrabarti","63/657, Balakrishnan Road, Ponda, Goa",Goa,3219.36,1,Tourist Places,Pet-friendly,residential
+191,10d2c589-f72b-4f29-9d0e-c3451550f960,Gala-Saha,"H.No. 519, Lala Chowk, Visakhapatnam, Andhra Pradesh",Andhra Pradesh,3320.37,1,Corporate Areas,Laundry,residential
+192,3dcc6a1b-0d03-4937-987b-2cd88f126315,"Jain, Bose and Varty","H.No. 759, Talwar Nagar, Nahan, Himachal Pradesh",Himachal Pradesh,3482.78,1,Tourist Places,Gym,residential
+193,de44341c-9d39-4652-8cf9-573ce78e1243,Bhandari-Sule,"29/24, Chakraborty Marg, Belgaum, Karnataka",Karnataka,3403.39,1,Airport,Outdoor Space,residential
+194,14cb5820-ad61-4cd2-9c50-a878faf1c9e8,Singh-Khalsa,"79, Dada Road, Junagadh, Gujarat",Gujarat,4287.98,1,Airport,Laundry,residential
+195,9bb95b26-2e62-412f-98dd-c598b7975c1b,Krishnan-Sen,"856, Badami, Phek, Nagaland",Nagaland,4393.52,1,Airport,WiFi,residential
+196,ca691729-c91d-4558-9dfe-919ab4f16bd9,"Madan, Golla and Khosla","756, Rajagopal Chowk, Bengaluru, Karnataka",Karnataka,4897.78,1,Schools,Laundry,residential
+197,6b6456e6-2878-4253-be04-45400682b63a,Wagle Ltd,"H.No. 98, Dewan Street, Darbhanga, Bihar",Bihar,1311.41,1,Corporate Areas,Parking,residential
+198,5d979bfe-321e-4d41-af82-79ad9156e186,"Acharya, Aurora and Mammen","91/38, Mangal Street, Silchar, Assam",Assam,2954.16,1,Airport,Parking,residential
+199,594de43c-1422-4f57-b8d2-ef5270c1f460,"Chauhan, Das and Lal","H.No. 28, Dixit Road, Dewas, Madhya Pradesh",Madhya Pradesh,1137.55,1,Corporate Areas,Gym,commercial
